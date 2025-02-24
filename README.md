@@ -35,7 +35,7 @@ O **Kahoot Destroyer** é uma ferramenta poderosa para acertar todas as pergunta
 
 ## 🔗Site 
 <details>  
-  <summary>Baixar versão offline</summary>  
+  <summary>SITE</summary>  
 
   **[Clique aqui](https://kahootdestroyer.squareweb.app/)**  
 
