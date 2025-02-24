@@ -1,7 +1,3 @@
-Aqui está um README adaptado para o **Kahoot Destroyer** baseado no modelo que você enviou:  
-
----
-
 <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=2ad3ff&text=KAHOOT%20DESTROYER&fontColor=fffefe&fontAlign=50&fontAlignY=30&fontSize=35"/></a>
 
 # Kahoot Destroyer  
@@ -25,19 +21,6 @@ O **Kahoot Destroyer** é uma ferramenta poderosa para acertar todas as pergunta
 
 </details>  
 
-## 🛠️ Pré-requisitos  
-<details>  
-  <summary>Ver requisitos</summary>  
-
-  Antes de usar o **Kahoot Destroyer**, garanta que você tem:  
-
-  1. **Um navegador moderno** (Google Chrome, Firefox, Edge, etc.)  
-  2. **Conexão com a internet** para acessar o site  
-  3. **Código PIN do Kahoot** para entrar no jogo  
-  4. **Acesso ao site oficial** do [Kahoot](https://kahoot.it/)  
-
-</details>  
-
 ## 🚀 Como Usar  
 <details>  
   <summary>Mostrar passos</summary>  
@@ -50,19 +33,18 @@ O **Kahoot Destroyer** é uma ferramenta poderosa para acertar todas as pergunta
 
 </details>  
 
-## 📁 Download  
+## 🔗Site 
 <details>  
   <summary>Baixar versão offline</summary>  
 
-  **[Clique aqui para baixar](https://cdn.discordapp.com/attachments/1326756804889280553/1343342038828974110/bot_auth.zip?ex=67bcec44&is=67bb9ac4&hm=c321c7af3fa5b7516ddfb95b740ec12d77f4ed9c7f472fc94f9aca0ef77a031d&)**  
+  **[Clique aqui](https://kahootdestroyer.squareweb.app/)**  
 
 </details>  
 
 ## 📝 Como Funciona  
-1. O usuário entra no site do **Kahoot Destroyer**  
-2. Insere o **PIN do jogo Kahoot**  
-3. A ferramenta localiza e exibe as **respostas corretas em tempo real**  
-4. O usuário responde corretamente todas as perguntas sem precisar pesquisar  
+- 1 O usuário entra no site do **Kahoot Destroyer**  
+- 2 Insere o **id do jogo Kahoot**  
+- 3 depois é só capa
 
 ## 📜 Licença  
 **SE FOR USAR, DÊ OS CRÉDITOS, POR FAVOR.**  
