@@ -82,7 +82,7 @@ O **Kahoot Destroyer** é uma ferramenta poderosa para acertar todas as pergunta
   <h3>7. Alterações nesta Licença</h3>
   <p>O criador do conteúdo se reserva o direito de modificar os termos desta licença a qualquer momento. Alterações futuras serão comunicadas de forma clara, e os novos termos estarão sujeitos a aprovação.</p>
 
-  <p><strong>COMPLETO CHAT.</strong></p>
+  <p><strong>sla kkkkk.</strong></p>
 </details>
 
 
