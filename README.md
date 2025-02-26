@@ -34,10 +34,6 @@ O **Kahoot Destroyer** é uma ferramenta poderosa para acertar todas as pergunta
 </details>  
 
 ## 🔗Site  **[Clique aqui](https://kahootdestroyer.squareweb.app/)**  
-<details>  
-  <summary>Entrar no site</summary>  
-
-  **[Clique aqui](https://kahootdestroyer.squareweb.app/)**  
 
 </details>  
 
