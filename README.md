@@ -81,6 +81,6 @@ O **Kahoot Destroyer** é uma ferramenta poderosa para acertar todas as pergunta
   <p><strong>sla kkkkk.</strong></p>
 </details>
 
-![Desenvolvido por: !im Snow?](https://cdn.discordapp.com/attachments/1326756804889280553/1343581864656506951/image.png?ex=67bdcb9f&is=67bc7a1f&hm=449e661a9eb2162099ea41bfccbfd63920a05022925013c90db1a2fb3905c172&)
+![Desenvolvido por: !im Snow?
 # *By:* _[!im Snow?](https://guns.lol/imsnow)_ & _[iUnknowBr](https://github.com/iUnknownBr)_
 
