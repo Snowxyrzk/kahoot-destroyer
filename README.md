@@ -1,5 +1,7 @@
 <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=1dff56&text=KAHOOT%20DESTROYER&fontColor=fffefe&fontAlign=50&fontAlignY=30&fontSize=35"/></a>
 
+# PROJETO TEMPORARIAMENTE PAUSADO ‼‼‼
+
 # Kahoot Destroyer  
 **Desenvolvido por:** _[iUnknowBr](https://github.com/iUnknownBr)_ _[!im Snow?](https://guns.lol/imsnow)_
 
